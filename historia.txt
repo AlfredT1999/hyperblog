@@ -1,0 +1,5 @@
+Este es el primer ejemplo de git
+
+Mi nombre es Alfredo y tengo 21 anos
+
+Vivo actualmente en Veracruz
